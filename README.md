@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yonghyun
 
-<!--
-**d0337b/d0337b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting-focused data analyst candidate building SQL/Python projects for finance and operations workflows.
 
-Here are some ideas to get you started:
+## Featured Project
+- AR Aging Risk Analyzer  
+  SQL + Python project for receivables aging analysis and risk reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- pandas
+- SQL / SQLite
+- Accounting / Finance
+
+## Focus
+Building portfolio projects for AR, reporting automation, and finance data workflows.
