@@ -2,8 +2,6 @@
 
 Accounting-focused data analyst candidate building SQL/Python projects for finance and operations workflows.
 
-## Featured Project
-
 ## Featured Projects
 
 ### [AR Aging Risk Analyzer](https://github.com/d0337b/ar-aging-risk-analyzer)
